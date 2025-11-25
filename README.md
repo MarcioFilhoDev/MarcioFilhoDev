@@ -2,9 +2,10 @@
 
 >Me chamo Márcio, tenho 22 anos e sou estudante de **Engenharia da Computação** da UNIUBE.
 >Sou desenvolvedor **front-end** e estou em busca da minha primeira **oportunidade** dentro da área.
-
+<!-- 
 
 ![MarcioFilhoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioFilhoDev&show_icons=true&theme=dark#gh-dark-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MarcioFilhoDev&layout=compact&langs_count=8&card_width=320) 
+-->
 
 
         
