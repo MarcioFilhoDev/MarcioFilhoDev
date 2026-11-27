@@ -2,9 +2,12 @@
 
 🎓 Estudante de **Engenharia da Computação na UNIUBE**, em Uberlândia – MG.
 
-💻 Desenvolvedor **Full Stack**, com foco no ecossistema React e TypeScript. Tenho experiência no desenvolvimento de aplicações web e mobile, integração com APIs e utilização de bancos de dados relacionais e não relacionais.
+💻 Desenvolvedor Full Stack | JavaScript | TypeScript | React | Node.js
 
-🚀 Estou em busca da minha primeira oportunidade profissional na área de desenvolvimento de software, onde possa contribuir com projetos reais, compartilhar conhecimentos e continuar evoluindo como desenvolvedor.
+Tenho interesse em desenvolvimento de software, APIs REST, bancos de dados e infraestrutura de redes.
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento backend com Node.js, TypeScript, PostgreSQL e integração de serviços.
+
+🚀 Busco minha primeira oportunidade profissional em tecnologia, onde possa contribuir com projetos reais e continuar evoluindo como desenvolvedor..
 <!-- 
 
 ![MarcioFilhoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioFilhoDev&show_icons=true&theme=dark#gh-dark-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MarcioFilhoDev&layout=compact&langs_count=8&card_width=320) 
